@@ -1,0 +1,47 @@
+[33mcommit 662b79e4092a898f3ac7f909660232390780f314[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlextrone[m[33m)[m
+Author: vagrant <vagrant@ubuntu1804.localdomain>
+Date:   Sun Apr 14 13:59:25 2024 +0000
+
+    login
+
+[33mcommit a0bdbd8d56daec4d929d7224566d14a0b38b2833[m[33m ([m[1;31morigin/lextrone[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aditya Kumar <106132841+Aditya-567@users.noreply.github.com>
+Date:   Sun Apr 14 19:13:36 2024 +0530
+
+    Delete calculator.py
+
+[33mcommit 7a9cf89ce98b5a1805bcc428c6d14120a0476008[m
+Author: Aditya Kumar <106132841+Aditya-567@users.noreply.github.com>
+Date:   Fri Apr 5 12:19:56 2024 +0530
+
+    Add files via upload
+
+[33mcommit 76f8776c2881ca5ca2fa58c2e16008213c0b0eda[m
+Author: Aditya Kumar <106132841+Aditya-567@users.noreply.github.com>
+Date:   Fri Apr 5 12:18:20 2024 +0530
+
+    Delete pom.xml
+
+[33mcommit fb6518f360df90ffb434f08d84273a6f5510aa19[m
+Author: Aditya Kumar <106132841+Aditya-567@users.noreply.github.com>
+Date:   Fri Apr 5 12:18:01 2024 +0530
+
+    Delete target directory
+
+[33mcommit d468847f4ebc6414483d96bc12ca519229c40254[m
+Author: Aditya Kumar <106132841+Aditya-567@users.noreply.github.com>
+Date:   Fri Apr 5 12:17:50 2024 +0530
+
+    Delete src directory
+
+[33mcommit 5a09211e21450554d1ccd41df6f9ad6391b4ca89[m
+Author: Aditya-567 <lextrone000567@gmail.com>
+Date:   Fri Mar 22 12:16:53 2024 +0530
+
+    lextrone
+
+[33mcommit d3f09d306be2d754f4aab79af3f3b42d0ec2c2eb[m
+Author: Aditya Kumar <106132841+Aditya-567@users.noreply.github.com>
+Date:   Fri Mar 22 12:03:40 2024 +0530
+
+    Create LICENSE
